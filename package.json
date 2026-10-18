@@ -1,0 +1,10 @@
+{
+  "name": "karan-ai-studio",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test.js"
+  },
+  "engines": { "node": ">=20" }
+}
